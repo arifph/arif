@@ -1,0 +1,40 @@
+#atas{
+	height: 20vh;
+}
+
+#menu1{
+	height: 13vh;
+	background-color: #f3f3f3;
+	padding-top: 1.5vh;
+	padding-left: 3vw;
+}
+
+#menu2{
+	height: 7vh;
+	color: white;
+	background-color: rgba(20,48,80,1);
+	padding-left: 4vw;
+}
+
+#tengah{
+	padding-left: 15vw;
+	height: 75vh;
+}
+
+#konten{
+	width: 70vw;
+	height: 74vh;
+	padding: 10px;
+	background-color: #eeeeee;
+}
+
+#program1{
+	height: 30vh; 
+	width: 48vw;
+	overflow: auto;
+}
+
+#bawah{
+	padding: 1vh;
+	height: 5vh;
+}

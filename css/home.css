@@ -1,0 +1,54 @@
+#atas{
+	height: 20vh;
+}
+
+#menu1{
+	height: 13vh;
+	background-color: #f3f3f3;
+	padding-top: 2.5vh;
+	padding-left: 3vw;
+}
+
+#menu2{
+	height: 7vh;
+	color: white;
+	background-color: rgba(20,48,80,1);
+	padding-left: 4vw;
+}
+
+#tengah{
+	padding-top: 1vh;
+	height: 75vh;
+}
+
+#konten{
+	width: 75vw;
+	height: 54vh;
+	padding-top: 2vh;
+}
+
+#label{
+	padding: 10px 0;
+	text-align: center;
+}
+
+#pengumuman{
+	padding: 0px 50px;
+}
+
+#item{
+	width: 25vw;
+	height: 27vh;
+	border: 1px solid white;
+	padding-top: 1vh;
+}
+
+#navigasi{
+	height: 6vh;
+	padding-top: 1vh;
+}
+
+#bawah{
+	padding: 1vh;
+	height: 5vh;
+}
